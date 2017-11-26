@@ -1,0 +1,209 @@
+Team	V	Score Diff
+Alabama	Ole Miss	63
+Alabama	Vanderbilt	59
+Alabama	Tennessee	38
+Alabama	Arkansas	32
+Alabama	Fresno State	31
+Alabama	Colorado State	18
+Alabama	Florida State	17
+Alabama	Texas A&M	8
+Alabama	LSU	14
+Arizona	UTEP	47
+Arizona	Northern Arizona	38
+Arizona	Washington State	21
+Arizona	UCLA	17
+Arizona	Colorado	3
+Arizona	California	1
+Arizona State	Washington	6
+Auburn	Mississippi State	39
+Auburn	Missouri	37
+Auburn	Georgia Southern	34
+Auburn	Arkansas	32
+Auburn	Ole Miss	21
+Auburn	Texas A&M	15
+Auburn	Mercer	14
+California	Washington State	34
+Clemson	Kent State	53
+Clemson	Boston College	27
+Clemson	Louisville	26
+Clemson	Virginia Tech	14
+Clemson	Wake Forest	14
+Clemson	Georgia Tech	14
+Clemson	Auburn	8
+Clemson	NC State	7
+Georgia	Tennessee	41
+Georgia	Florida	35
+Georgia	Vanderbilt	31
+Georgia	Mississippi State	28
+Georgia	Samford	28
+Georgia	Missouri	25
+Georgia	Appalachian State	21
+Georgia	Notre Dame	1
+Georgia	South Carolina	14
+Houston	Arizona	3
+Iowa	Iowa State	3
+Iowa	Ohio State	31
+Iowa State	Kansas	45
+Iowa State	Akron	27
+Iowa State	Northern Iowa	18
+Iowa State	Texas Tech	18
+Iowa State	Oklahoma	7
+Iowa State	TCU	7
+LSU	Chattanooga	35
+LSU	BYU	27
+LSU	Ole Miss	16
+LSU	Syracuse	9
+LSU	Auburn	4
+LSU	Florida	1
+Memphis	Connecticut	39
+Memphis	Tulane	30
+Memphis	Tulsa	27
+Memphis	Navy	17
+Memphis	Southern Illinois	13
+Memphis	Louisiana Monroe	8
+Memphis	Houston	4
+Memphis	UCLA	3
+Miami	Bethune-Cookman	28
+Miami	Duke	25
+Miami	Toledo	22
+Miami	Syracuse	8
+Miami	North Carolina	5
+Miami	Florida State	4
+Miami	Georgia Tech	1
+Miami	Virginia Tech	18
+Michigan State	Bowling Green	25
+Michigan State	Minnesota	17
+Michigan State	W Michigan	14
+Michigan State	Indiana	8
+Michigan State	Iowa	7
+Michigan State	Michigan	4
+Michigan State	Penn State	3
+Mississippi State	Charleston Southern	49
+Mississippi State	Kentucky	38
+Mississippi State	Louisiana Tech	36
+Mississippi State	LSU	30
+Mississippi State	BYU	25
+Mississippi State	Texas A&M	21
+Mississippi State	UMass	11
+NC State	Furman	33
+NC State	Pittsburgh	18
+NC State	Marshall	17
+NC State	Louisville	14
+NC State	Syracuse	8
+NC State	Florida State	6
+Northwestern	Michigan State	8
+Notre Dame	USC	35
+Notre Dame	Miami (OH)	35
+Notre Dame	Temple	33
+Notre Dame	Boston College	29
+Notre Dame	North Carolina	23
+Notre Dame	NC State	21
+Notre Dame	Michigan State	20
+Notre Dame	Wake Forest	11
+Ohio State	Rutgers	56
+Ohio State	Maryland	48
+Ohio State	Nebraska	42
+Ohio State	UNLV	33
+Ohio State	Army	31
+Ohio State	Indiana	28
+Ohio State	Penn State	1
+Oklahoma	UTEP	49
+Oklahoma	Tulane	42
+Oklahoma	Texas Tech	22
+Oklahoma	Ohio State	15
+Oklahoma	Baylor	8
+Oklahoma	Kansas State	7
+Oklahoma	Texas	5
+Oklahoma	Oklahoma State	10
+Oklahoma State	Baylor	43
+Oklahoma State	Pittsburgh	38
+Oklahoma State	South Alabama	37
+Oklahoma State	Tulsa	35
+Oklahoma State	West Virginia	11
+Oklahoma State	Texas Tech	7
+Oklahoma State	Texas	3
+Penn State	Georgia State	56
+Penn State	Akron	52
+Penn State	Indiana	31
+Penn State	Michigan	29
+Penn State	Northwestern	24
+Penn State	Pittsburgh	19
+Penn State	Iowa	2
+San Diego State	Stanford	3
+South Carolina	NC State	7
+Stanford	Rice	55
+Stanford	Oregon	42
+Stanford	UCLA	24
+Stanford	Arizona State	10
+Stanford	Utah	3
+Stanford	Oregon State	1
+Syracuse	Clemson	3
+TCU	Jackson State	63
+TCU	Kansas	43
+TCU	Arkansas	21
+TCU	SMU	20
+TCU	Kansas State	20
+TCU	Oklahoma State	13
+TCU	West Virginia	13
+TCU	Texas	17
+Texas	Iowa State	10
+Troy	LSU	3
+UCF	Florida International	44
+UCF	East Carolina	42
+UCF	Austin Peay	40
+UCF	Maryland	28
+UCF	Cincinnati	28
+UCF	Memphis	27
+UCF	Navy	10
+UCF	SMU	7
+USC	Arizona State	31
+USC	Oregon State	28
+USC	Stanford	18
+USC	W Michigan	18
+USC	California	10
+USC	Texas	3
+USC	Utah	1
+USC	Arizona	14
+Utah	Arizona	14
+Virginia Tech	North Carolina	52
+Virginia Tech	East Carolina	47
+Virginia Tech	Old Dominion	38
+Virginia Tech	Delaware	27
+Virginia Tech	Duke	21
+Virginia Tech	Boston College	13
+Virginia Tech	West Virginia	7
+Washington	Montana	56
+Washington	Oregon State	35
+Washington	Fresno State	32
+Washington	California	31
+Washington	Colorado	27
+Washington	Rutgers	24
+Washington	UCLA	21
+Washington	Oregon	35
+Washington State	Nevada	35
+Washington State	Montana State	31
+Washington State	Oregon State	29
+Washington State	Colorado	28
+Washington State	Oregon	23
+Washington State	USC	17
+Washington State	Boise State	3
+Washington State	Stanford	3
+West Virginia	Iowa State	4
+Wisconsin	Utah State	49
+Wisconsin	Indiana	38
+Wisconsin	BYU	34
+Wisconsin	Maryland	25
+Wisconsin	Nebraska	21
+Wisconsin	Florida Atlantic	17
+Wisconsin	Illinois	14
+Wisconsin	Northwestern	9
+Wisconsin	Purdue	8
+South Florida	San Jose State	20
+South Florida	Stony Brook	14
+South Florida	Illinois	24
+South Florida	Temple	36
+South Florida	East Carolina	30
+South Florida	Cincinnati	30
+South Florida	Tulane	6
+Houston	South Florida	4
+South Florida	Connecticut	17
