@@ -198,12 +198,3 @@ Wisconsin	Florida Atlantic	17
 Wisconsin	Illinois	14
 Wisconsin	Northwestern	9
 Wisconsin	Purdue	8
-South Florida	San Jose State	20
-South Florida	Stony Brook	14
-South Florida	Illinois	24
-South Florida	Temple	36
-South Florida	East Carolina	30
-South Florida	Cincinnati	30
-South Florida	Tulane	6
-Houston	South Florida	4
-South Florida	Connecticut	17

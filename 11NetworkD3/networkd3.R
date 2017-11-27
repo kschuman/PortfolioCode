@@ -2,8 +2,7 @@
 # HW - Part 2
 
 # Set directory
-setwd('../KSchuman_HW8_Part2')
-
+setwd('~/PortfolioCode/11NetworkD3')
 # Libraries
 library(igraph)
 library(extrafont)
@@ -14,10 +13,10 @@ library(networkD3)
 library(plyr)
 
 # Read data
-#edges <- read.table("KS_Edges2b.txt", header=T, sep='\t')
-#nodes <- read.table("KS_Nodes2.txt", header=T, sep='\t')[,0:5]
-edges <- read.table("1_edges.txt", header=T, sep='\t')
-nodes <- read.table("1_nodes.txt", header=T, sep='\t')[,0:5]
+edges <- read.table("KS_Edges2b.txt", header=T, sep='\t')
+nodes <- read.table("KS_Nodes2.txt", header=T, sep='\t')[,0:5]
+#edges <- read.table("1_edges.txt", header=T, sep='\t')
+#nodes <- read.table("1_nodes.txt", header=T, sep='\t')[,0:5]
 names(edges) <- c('Winner', 'Loser', 'ScoreDiff')
 nodes$ID <- c(0:(length(nodes$Team)-1))
 names(nodes) <- c('Team', 'C.Rank', 'AP.Rank', 'Conf', 'ConfNum', 'ID')
@@ -65,7 +64,7 @@ edges_col <- sapply(edges$ScoreDiff, function(x) colCodes[which(sort(unique(edge
 
 
 # Node Size
-nodes$Size <- 27 - c(nodes$C.Rank)
+nodes$Size <- (27 - c(nodes$C.Rank))*1.5
 
 # D3 Plot
 D3_network_LM <- forceNetwork(Links = edges, # data frame that contains info about edges
@@ -84,7 +83,8 @@ D3_network_LM <- forceNetwork(Links = edges, # data frame that contains info abo
                                          opacity = 0.9, # opacity
                                          zoom = TRUE, # ability to zoom when click on the node
                                          opacityNoHover = 0.5, # opacity of labels when static
-                                         linkColour = edges_col) # edge colors
+                                         linkColour = edges_col, # edge colors
+                                          arrows=TRUE)
 
 # Plot network
 D3_network_LM 
