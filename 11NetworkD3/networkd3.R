@@ -84,14 +84,21 @@ D3_network_LM <- forceNetwork(Links = edges, # data frame that contains info abo
                                          zoom = TRUE, # ability to zoom when click on the node
                                          opacityNoHover = 0.5, # opacity of labels when static
                                          linkColour = edges_col, # edge colors
-                                          arrows=TRUE)
+                              legend=TRUE,          
+                              arrows=TRUE) %>% 
+  htmlwidgets::prependContent(htmltools::tags$h1('NCAA Football Teams')) %>% 
+  networkD3::saveNetwork(file="KS_D3Network.html",  selfcontained = TRUE)
+
 
 # Plot network
 D3_network_LM 
-
-# Save HTML
 networkD3::saveNetwork(D3_network_LM, "KS_D3Network.html", selfcontained = TRUE)
 
+
+
+# Save HTML
+library(htmlwidgets)
+library(htmltools)
 
 
 
