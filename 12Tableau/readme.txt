@@ -1,0 +1,1 @@
+This dashboard shows where common currencies are used official lanuages are used, with flags as the icon for each country. Only currencies and languages used in two or more countries were used in this graphic.
