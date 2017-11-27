@@ -1,0 +1,52 @@
+State,Region
+CT,New England
+ME,New England
+MA,New England
+NH,New England
+RI,New England
+VT,New England
+NJ,Middle Atlantic
+NY,Middle Atlantic
+PA,Middle Atlantic
+AZ,Mountain
+CO,Mountain
+ID,Mountain
+NM,Mountain
+MT,Mountain
+UT,Mountain
+NV,Mountain
+WY,Mountain
+DE,South Atlantic
+DC,South Atlantic
+FL,South Atlantic
+GA,South Atlantic
+MD,South Atlantic
+NC,South Atlantic
+SC,South Atlantic
+VA,South Atlantic
+WV,South Atlantic
+AK,Pacific
+CA,Pacific
+HI,Pacific
+OR,Pacific
+WA,Pacific
+AL,East South Central
+KY,East South Central
+MS,East South Central
+TN,East South Central
+AR,West South Central
+LA,West South Central
+OK,West South Central
+TX,West South Central
+IN,East North Central
+IL,East North Central
+MI,East North Central
+OH,East North Central
+WI,East North Central
+IA,West North Central
+NE,West North Central
+KS,West North Central
+ND,West North Central
+MN,West North Central
+SD,West North Central
+MO,West North Central
