@@ -1,0 +1,1 @@
+This is a network graph with games between collegees based on the games they play with other schools. You can get a good look into each school's network by dragging and clicking on their edges. The edge colors are based on the score differential, so you can group similar scores visually. 
