@@ -1,0 +1,16 @@
+name	lat	lng
+Boeing Everett Factory	47.98	122.20
+Boeing Composite Wing Center	47.98	122.20
+NASA Vehicle Assembly Building	28.26	80.72
+Target Import Warehouse	32.08	81.09
+Austal USA	30.69	88.03
+Tesla Factory	37.54	121.98
+Michelin Distribution Center	34.94	81.93
+Nike - North America Logistics Center	35.14	90.04
+John Deere North American Parts Distribution Center	41.45	90.57
+Mitsubishi Motors North America	40.51	88.99
+Belvidere Assembly Plant	42.26	88.84
+Tesla Gigafactory 1	39.40	119.55
+NASA Michoud Assembly Facility	29.95	90.07
+Target Import Warehouse	47.03	122.82
+Amazon Distribution Center	29.55	98.26

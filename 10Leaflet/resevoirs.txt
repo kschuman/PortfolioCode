@@ -1,0 +1,98 @@
+name	state	lat	lng
+Abiquiu Lake	 NM	36.16	106.28
+Alamo Lake	 AZ	34.17	113.32
+Allegheny Reservoir	 NY	41.57	78.56
+American Falls Reservoir	 ID	42.54	112.45
+Amistad Reservoir	 TX	29.28	101.06
+Arkabutla Lake	 MS	34.44	90.06
+Banks Lake	 WA	47.47	119.12
+Beaver Lake	 AR	36.21	93.55
+Belton Lake	 TX	31.08	97.30
+Bighorn Lake	MT	45.06	108.11
+Broken Bow Lake	OK	34.12	94.41
+Brownlee Reservoir	ID	44.35	117.07
+Bull Shoals Lake	AR	36.29	92.45
+Canyon Ferry Lake	MT	46.31	111.34
+Cedar Creek Reservoir	TX	32.16	96.08
+Center Hill Lake	TN	36.01	85.45
+Cherokee Lake	TN	36.15	83.22
+Dale Hollow Reservoir	KY	36.36	85.18
+DeGray Lake	AR	34.14	93.11
+Don Pedro Recevoir	CA	37.46	120.21
+Douglas Lake	TN	35.39	83.22
+Dworshak Reservoir	ID	46.36	116.06
+Elephant Butte Lake	NM	33.18	107.09
+Enid Lake	MS	34.09	89.48
+Eufaula Lake	OK	35.17	95.32
+Falcon Lake	TX	26.44	99.13
+Falls Lake	NC	36.01	78.42
+Flathead Lake	MT	47.54	114.06
+Flaming Gorge Reservoir	UT	41.05	109.32
+Fort Gibson Lake	OK	35.57	95.16
+Fort Peck Lake	MT	47.45	106.43
+Fontana Lake	NC	35.26	83.40
+F. D. Roosevelt Lake	WA	48.19	118.10
+Grand Lake o’ the Cherokees	OK	36.36	94.50
+Greers Ferry Lake	AR	35.31	92.07
+Grenada Lake	MS	33.49	89.43
+Guntersville Lake	AL	34.30	86.09
+Hugo Lake	OK	34.03	95.25
+Hungry Horse Reservoir	MT	48.13	113.47
+John H. Kerr Reservoir	NC	36.34	78.29
+Jordan Lake	NC	35.44	79.01
+Saw Lake	OK	36.46	96.49
+Kentucky Lake	KY	36.31	88.02
+Keystone Lake	OK	36.13	96.17
+Lake Almanor	CA	40.15	121.10
+Lake Barkley	KY	36.52	87.59
+Lake Berryessa	CA	38.35	122.13
+Lake Cumberland	KY	36.55	85.00
+Lake Elwell	MT	48.20	111.15
+Lake Francis Case	SD	43.26	99.12
+Lake Hartwell	GA	34.29	82.49
+Lake Jocassee	NC	34.58	82.56
+Lake Kemp	TX	33.45	99.08
+Lake Koocanusa	MT	48.49	115.16
+Lake Lanier	GA	34.14	83.57
+Lake Livingston	TX	30.44	95.08
+Lake Marion	SC	33.27	80.19
+Lake Martin	AL	32.51	85.53
+Lake McClure	CA	37.38	120.16
+Lake McConaughy	NE	41.15	101.50
+Lake Mead	AZ	36.08	114.25
+Lake Meredith	TX	35.38	101.39
+Lake Mohave	AZ	35.24	114.38
+Lake Moultrie	SC	33.18	80.03
+Lake Murray	SC	34.03	81.22
+Lake Normal	NC	35.31	80.56
+Lake Oahe	ND	45.17	100.18
+Lake of the Ozarks	MO	38.09	92.47
+Lake Oroville	CA	39.34	121.27
+Lake Ouachita	AR	34.35	93.18
+Lake Pend Oreille	ID	48.08	116.23
+Lake Pleasant	AZ	33.53	112.16
+Lake Powell	AZ	37.19	110.47
+Lake Ray Roberts	TX	33.24	97.01
+Lake Red Rock	IA	41.25	93.09
+Lake Sakakawea	ND	47.45	102.17
+Lake Sharpe	SD	44.11	99.40
+Lake Strom Thurmond	GA	33.48	82.19
+Lake Tawakoni	TX	32.48	95.55
+Lake Texoma	OK	33.54	96.39
+Lake Travis	TX	30.24	97.59
+Lake Umatilla	OR	45.47	120.03
+Lake Wallula	OR	46.03	118.56
+Lake Winnibigoshish	MN	47.26	94.11
+Leech Lake	MN	47.09	94.24
+Lewis Smith Lake	AL	33.57	87.06
+Lewisville Lake	TX	33.06	96.58
+Mark Twain Lake	TX	39.39	91.45
+Milford Lake	KS	39.09	96.55
+Millwood Lake	AR	33.44	93.58 
+
+
+
+
+
+
+
